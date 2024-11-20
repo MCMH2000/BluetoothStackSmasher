@@ -9,6 +9,7 @@
 
 // Modifications by Ollie Whitehouse <ol at uncon dot org>
 // 
+#include <string.h>
 #include <stdio.h>
 
 char *replace(char *string, char *oldpiece, char *newpiece) {
